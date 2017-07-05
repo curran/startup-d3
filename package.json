@@ -1,0 +1,22 @@
+{
+  "name": "startup-d3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "example-viewer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curran/startup-d3.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/curran/startup-d3/issues"
+  },
+  "homepage": "https://github.com/curran/startup-d3#readme",
+  "dependencies": {
+    "example-viewer": "^1.2.3"
+  }
+}
